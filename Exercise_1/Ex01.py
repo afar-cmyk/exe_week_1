@@ -34,4 +34,4 @@ else:
     resultado = "".join(resuStr)
 
 ## mensaje final con el resultado de la operación
-print (f"El pago para el trabajador es de: {resultado} cop.") 
+print (f"El pago para el trabajador es de: {resultado} cop.")
